@@ -61,8 +61,8 @@ library(reshape2)
 
 ####subject: Assumes a value from 1 to 30, representing the subject tested.
 #### activity: Describes the action made by the subject, being WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
-#measurement: What measurement the column value will contain.
-#value: A number correspondent to measurement label.
+####(measurement: What measurement the column value will contain.
+####value: A number correspondent to measurement label.)
 
 ##Assigning labels 
 ### Need to assign labels for the activity and features variables from the features and activity_labels dataset
